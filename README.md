@@ -65,13 +65,9 @@ Display current weather conditions including temperature, humidity, wind speed, 
   - Accessed the data from request attributes using ${attributeName} syntax.
 
 ## Screenshots
-![WeatherApp Screenshot](screenshots/1l.jpeg)
 
-![WeatherApp Screenshot](screenshots/2l.jpeg)
-
-![WeatherApp Screenshot](screenshots/3s.jpeg)
 
 ## Created by:
-- [Darshan Bajgain](https://github.com/darshanbajgain) 
+- [vamshi krishna](https://github.com/vamshi-chinna) 
 
 "# Weathers-app" 
